@@ -1,5 +1,6 @@
 body{
     background-color: rgb(177, 201, 238);
+    text-align: center;
 }
 
 .dog{
@@ -43,3 +44,6 @@ a{
     text-align:initial;
 }
 
+img{
+    width: 600px;
+}
