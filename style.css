@@ -10,13 +10,13 @@ body{
 }
 
 a{
-    color: rgb(130, 72, 255);
+    color: rgb(122, 78, 218);
     text-decoration: none;
 }
 
 .container{
-    text-align:center;
-    
+    text-align: center;
+    background-color: rgb(255, 103, 235);
 }
 
 .texto-pg2{
@@ -48,6 +48,3 @@ img{
     width: 600px;
 }
 
-.sla{
-    background-color: blueviolet
-}
